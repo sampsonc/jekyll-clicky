@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{This gem adds the clicky tracking javascript to websites generate with the Jekyll framework.}
   spec.description   = %q{This gem adds the clicky tracking javascript to websites generate with the Jekyll framework.}
-  spec.homepage      = "https://github.com/sampsonc/jekyll-clicky"
+  spec.homepage      = "https://www.chs.us/jekyll-clicky"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
