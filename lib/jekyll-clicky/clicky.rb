@@ -31,7 +31,6 @@ class Clicky
 
   def code
     <<-CODE
-<a title="Google Analytics Alternative" href="http://clicky.com/#{@id}"><img alt="Google Analytics Alternative" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
 <script type="text/javascript">
 var clicky_site_ids = clicky_site_ids || [];
 clicky_site_ids.push(#{@id});
