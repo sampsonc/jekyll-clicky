@@ -31,7 +31,7 @@ class Clicky
 
   def code
     <<-CODE
-<script type="text/javascript">
+<script>
 var clicky_site_ids = clicky_site_ids || [];
 clicky_site_ids.push(#{@id});
 (function() {
